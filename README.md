@@ -38,7 +38,7 @@ The architecture of this application relies and complies with the following poin
 <br/>
 <img src="https://github.com/mondal-souvik/git/assets/100204863/241f3e5f-cc2a-4c69-b760-bc0ae994568e"  width="220" hspace="10">
 <img src="https://github.com/mondal-souvik/git/assets/100204863/b24d8860-da7b-4b8f-acd8-b02c7865be42"  width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/f230ae36-923b-433b-8260-8b31f2ecbc38"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/0d65a227-0fda-422e-a75b-b34d7f6d380f"  width="220" hspace="10">
 
 <br/>
 <br/>
@@ -53,7 +53,7 @@ The architecture of this application relies and complies with the following poin
 <br/>
 <img src="https://github.com/mondal-souvik/git/assets/100204863/be311c0c-dd16-454b-b457-60067980ca0a" width="220" hspace="10">
 <img src="https://github.com/mondal-souvik/git/assets/100204863/c036db90-4d80-4a21-adf4-b379275a3989" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/8ba67238-5b56-4597-aa10-fb2fa1526b30" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/49cd24da-976f-486a-80e7-55b8202a90a9" width="220" hspace="10">
 
 ## Download APK
 <img src="https://github.com/mondal-souvik/git-two/assets/100204863/47ea6bb6-0431-4d69-829b-112b1b7b4f54" width="110px" hspace="10">
