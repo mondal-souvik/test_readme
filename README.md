@@ -56,7 +56,7 @@ The architecture of this application relies and complies with the following poin
 <img src="https://github.com/mondal-souvik/git/assets/100204863/49cd24da-976f-486a-80e7-55b8202a90a9" width="220" hspace="10">
 
 ## Download APK
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/47ea6bb6-0431-4d69-829b-112b1b7b4f54" width="110px" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/af8803b4-2434-4678-8fbd-5cf4b32dcd31" width="110px" hspace="10">
 
 [Android Jetpack]: https://developer.android.com/jetpack
 [NewsAPI]: https://newsapi.org/
