@@ -25,7 +25,7 @@ The architecture of this application relies and complies with the following poin
 * [Coil](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
 
 ## App Icon 📱
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/07f6638a-902d-429a-b4ad-1fb6302530ba" width="80px" hspace="40">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/55c7cccb-0c86-4812-b552-99e374e8a882" width="80px" hspace="40">
 
 ## Some Screenshots
 
