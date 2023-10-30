@@ -46,14 +46,14 @@ The architecture of this application relies and complies with the following poin
 
 **Light Theme :**
 
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/ee411289-cd76-4548-a17b-ac2a9ece210f" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/b73bd36d-11e8-40ef-95af-48c0be339457" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/823ad3da-d453-4e61-ab7a-018b2e109ff2" height="470" width="220" hspace="5">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/ec5066be-a537-4c7e-bbcd-6786c51c1334" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/ceb3790d-9af6-4451-a2de-7df0a62632b3" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/c9a60098-238c-47f8-8583-28671a4ffded" height="470" width="220" hspace="5">
 <br/>
 <br/>
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/810d6a40-cc01-489b-80f2-ae10885ad449" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/42453298-c636-401c-948b-63df316c8630" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/8ba67238-5b56-4597-aa10-fb2fa1526b30" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/be311c0c-dd16-454b-b457-60067980ca0a" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/c036db90-4d80-4a21-adf4-b379275a3989" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git-two/assets/100204863/8ba67238-5b56-4597-aa10-fb2fa1526b30" width="220" hspace="10">
 
 ## Download APK
 <img src="https://github.com/mondal-souvik/git-two/assets/100204863/47ea6bb6-0431-4d69-829b-112b1b7b4f54" width="110px" hspace="10">
