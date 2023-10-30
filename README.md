@@ -16,7 +16,7 @@ The architecture of this application relies and complies with the following poin
 * [Retrofit](https://square.github.io/retrofit/) a REST Client for Android which makes it relatively easy to retrieve and upload JSON (or other structured data) via a REST based webservice.
 * [Dagger Hilt](https://dagger.dev/hilt/) for dependency injection.
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) to store and manage UI-related data in a lifecycle conscious way.
-* [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) to handle data in a lifecycle-aware fashion.
+* [Flow](https://developer.android.com/kotlin/flow) for handling asynchronous data streams.
 * [Navigation Component](https://developer.android.com/guide/navigation) to handle all navigations and also passing of data between destinations.
 * [Material Design](https://m3.material.io/) an adaptable system of guidelines, components, and tools that support the best practices of user interface design.
 * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) Coroutines help in managing background threads and reduces the need for callbacks.
