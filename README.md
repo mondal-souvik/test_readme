@@ -31,13 +31,13 @@ The architecture of this application relies and complies with the following poin
 
 **Dark Theme :**
 
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/6248beb1-9e22-4b7c-9e44-a8d94895d72f" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/48c6f1fb-2caf-4142-b634-dfea584b03e3" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/f4a90542-187a-4a07-8a91-d0e531ce4fc6" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/6e5da5cf-087e-4ef6-acaf-bcb8753a7bb3" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/74bc929b-0984-41c0-a171-7f6699602158" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/f53b49e7-532c-4f46-8c97-68fab59c1ba4" height="470" width="220" hspace="10">
 <br/>
 <br/>
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/0c8fa1be-5520-4938-8491-68ddba6f0aa3" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git-two/assets/100204863/67d2c8d7-0a86-462c-9059-e245cfb8ae3c" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/241f3e5f-cc2a-4c69-b760-bc0ae994568e" height="470" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/git/assets/100204863/b24d8860-da7b-4b8f-acd8-b02c7865be42" height="470" width="220" hspace="10">
 <img src="https://github.com/mondal-souvik/git-two/assets/100204863/f230ae36-923b-433b-8260-8b31f2ecbc38" height="470" width="220" hspace="10">
 
 <br/>
