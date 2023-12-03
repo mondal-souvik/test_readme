@@ -1,62 +1,60 @@
-# Newsant News App 📰
-An Android news application implemented using the MVVM pattern, Retrofit2, Paging3, Dagger-Hilt, Flow, ViewModel, Coroutines, Room, Navigation Components, View Binding and some other libraries from the [Android Jetpack] . Newsant app fetches data from the [NewsAPI] .
-
-
-## Architecture
-The architecture of this application relies and complies with the following points below:
-* A single-activity architecture, using the [Navigation Components](https://developer.android.com/guide/navigation) to manage fragment operations.
-* Pattern [Model-View-ViewModel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)(MVVM) which facilitates a separation of development of the graphical user interface.
-* [Android architecture components](https://developer.android.com/topic/libraries/architecture/) which help to keep the application robust, testable, and maintainable.
-
-<p align="center"><a><img src="https://raw.githubusercontent.com/mayokunthefirst/Instant-Weather/master/media/final-architecture.png" width="700"></a></p>
+# Attendance Room App
+#### A Google Classroom-inspired Android application with location-based smart attendance feature.
+#### Some features:
+* Google sign-in and sign-out
+* Create and join classroom
+* Location-based attendance and manual attendance taking
+* Single device, single attendance
+* Communicate through messaging
 
 ## Technologies used:
 
 * [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
-* [Retrofit](https://square.github.io/retrofit/) a REST Client for Android which makes it relatively easy to retrieve and upload JSON (or other structured data) via a REST based webservice.
+* [Firebase](https://firebase.google.com/) - is a platform developed by Google for creating mobile and web applications. 
+* [Fused Location Provider](https://developers.google.com/location-context/fused-location-provider) - is a location API in Google Play services.
 * [Dagger Hilt](https://dagger.dev/hilt/) for dependency injection.
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) to store and manage UI-related data in a lifecycle conscious way.
 * [Flow](https://developer.android.com/kotlin/flow) for handling asynchronous data streams.
 * [Navigation Component](https://developer.android.com/guide/navigation) to handle all navigations and also passing of data between destinations.
 * [Material Design](https://m3.material.io/) an adaptable system of guidelines, components, and tools that support the best practices of user interface design.
 * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) Coroutines help in managing background threads and reduces the need for callbacks.
-* [Room](https://developer.android.com/topic/libraries/architecture/room) persistence library which provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
-* [Paging Library](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) helps you load and display small chunks of data at a time.
-* [Coil](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
+* [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling.
 
 ## App Icon 📱
-<img src="https://github.com/mondal-souvik/git/assets/100204863/55c7cccb-0c86-4812-b552-99e374e8a882" width="80px" hspace="40">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/dacff436-41f9-4ea4-93d5-8d276ef409a8" width="80px" hspace="40">
 
 ## Some Screenshots
 
-**Dark Theme :**
-
-<img src="https://github.com/mondal-souvik/git/assets/100204863/6e5da5cf-087e-4ef6-acaf-bcb8753a7bb3" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/74bc929b-0984-41c0-a171-7f6699602158"  width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/f53b49e7-532c-4f46-8c97-68fab59c1ba4"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/a5b6ff66-4c67-4cec-a109-207f33b853da" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/c566dd2f-a84c-4321-a18d-4b0802833708"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/1ca98062-1f81-41ca-89a9-fca1b15f1363"  width="220" hspace="10">
 <br/>
 <br/>
-<img src="https://github.com/mondal-souvik/git/assets/100204863/241f3e5f-cc2a-4c69-b760-bc0ae994568e"  width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/b24d8860-da7b-4b8f-acd8-b02c7865be42"  width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/0d65a227-0fda-422e-a75b-b34d7f6d380f"  width="220" hspace="10">
-
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/39e02369-1aca-4635-8144-446c77dfd169"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/097cf7a6-16f1-413e-b436-551c3a3c832c"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/5b4cd598-973c-46a6-b7a1-668e5e5e3766"  width="220" hspace="10">
 <br/>
 <br/>
-<br/>
-
-**Light Theme :**
-
-<img src="https://github.com/mondal-souvik/git/assets/100204863/ec5066be-a537-4c7e-bbcd-6786c51c1334" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/ceb3790d-9af6-4451-a2de-7df0a62632b3" height="470" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/c9a60098-238c-47f8-8583-28671a4ffded" height="470" width="220" hspace="5">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/ba6319d0-9663-4811-b196-897a54f89f4a"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/3f9b7988-4ae8-4991-a637-bc6164d26a3c"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/631d868a-16e1-468e-bf44-b0db3ac0748d"  width="220" hspace="10">
 <br/>
 <br/>
-<img src="https://github.com/mondal-souvik/git/assets/100204863/be311c0c-dd16-454b-b457-60067980ca0a" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/c036db90-4d80-4a21-adf4-b379275a3989" width="220" hspace="10">
-<img src="https://github.com/mondal-souvik/git/assets/100204863/49cd24da-976f-486a-80e7-55b8202a90a9" width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/7c2ca4e3-5051-46c3-b968-0921e538a6b0"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/b624b74b-b83f-4958-9aa6-a6a570f0227d"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/44bd5635-fb8c-4fe3-a65d-e9e97409c1f4"  width="220" hspace="10">
+<br/>
+<br/>
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/e901bc10-d526-4d99-8256-bedcba6c2ab2"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/0c83719e-6848-46bc-8ff6-da57dd0ed974"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/719f6b29-71b8-4cda-aee2-9e49bdc89f84"  width="220" hspace="10">
+<br/>
+<br/>
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/e660d96d-117d-455a-9ca1-596396267a35"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/84f1af29-0627-4ba4-a435-e5884f22abc4"  width="220" hspace="10">
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/bc1eb408-a4f1-4545-82c2-acdc68f9504c"  width="220" hspace="10">
+<br/>
+<br/>
 
 ## Download APK
-<img src="https://github.com/mondal-souvik/git/assets/100204863/af8803b4-2434-4678-8fbd-5cf4b32dcd31" width="110px" hspace="10">
-
-[Android Jetpack]: https://developer.android.com/jetpack
-[NewsAPI]: https://newsapi.org/
+<img src="https://github.com/mondal-souvik/test_readme/assets/100204863/7a1961e4-c70d-4447-9aef-a1a062cdee76" width="110px" hspace="10">
